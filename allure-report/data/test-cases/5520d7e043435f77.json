@@ -1,0 +1,85 @@
+{
+  "uid" : "5520d7e043435f77",
+  "name" : "Login User",
+  "fullName" : "LoginPageTest.loginUserTest",
+  "historyId" : "10b738ed5dac259b9ac84ce119d077a",
+  "time" : {
+    "start" : 1579461962181,
+    "stop" : 1579461976802,
+    "duration" : 14621
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1579461962261,
+      "stop" : 1579461972141,
+      "duration" : 9880
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1579461976242,
+      "stop" : 1579461976796,
+      "duration" : 554
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "15224@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginUserTest"
+  }, {
+    "name" : "suite",
+    "value" : "LoginPageTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5520d7e043435f77.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login User",
+    "uid" : "b72b7750b73068b6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464493427,
+      "stop" : 1579464519472,
+      "duration" : 26045
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "addNewCouponTest()",
+    "uid" : "69260808c40c89b5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464519566,
+      "stop" : 1579464546195,
+      "duration" : 26629
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "addNewCouponSuccessMsgTest()",
+    "uid" : "397d180b2a837955",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464546200,
+      "stop" : 1579464578974,
+      "duration" : 32774
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "searchAndDeleteCouponTest()",
+    "uid" : "834badaf50ecf524",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464578981,
+      "stop" : 1579464645231,
+      "duration" : 66250
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "searchCouponResultTest()",
+    "uid" : "90fd82e6d90c26cb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464645235,
+      "stop" : 1579464696433,
+      "duration" : 51198
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "searchCouponPlaceholderTest()",
+    "uid" : "f4a2da5c7e3ea463",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464696436,
+      "stop" : 1579464738009,
+      "duration" : 41573
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "couponSearchResultRowVisibilityTest()",
+    "uid" : "eebf724470cea071",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464738014,
+      "stop" : 1579464764132,
+      "duration" : 26118
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "userLogOutTest()",
+    "uid" : "d67f67e78432994d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1579464764138,
+      "stop" : 1579464791721,
+      "duration" : 27583
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

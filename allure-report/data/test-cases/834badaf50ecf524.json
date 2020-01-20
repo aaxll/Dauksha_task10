@@ -1,0 +1,104 @@
+{
+  "uid" : "834badaf50ecf524",
+  "name" : "searchAndDeleteCouponTest()",
+  "fullName" : "CouponOperationsTest.searchAndDeleteCouponTest",
+  "historyId" : "ad99753b91304b9163247fcf906ef024",
+  "time" : {
+    "start" : 1579464578981,
+    "stop" : 1579464645231,
+    "duration" : 66250
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1579464578981,
+      "stop" : 1579464588058,
+      "duration" : 9077
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1579464644680,
+      "stop" : 1579464645231,
+      "duration" : 551
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "16324@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchAndDeleteCouponTest"
+  }, {
+    "name" : "suite",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf5a1b4bba82934c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579463960759,
+        "stop" : 1579464027912,
+        "duration" : 67153
+      }
+    }, {
+      "uid" : "ea4dc7405bc7a106",
+      "status" : "failed",
+      "statusDetails" : "expected: <0> but was: <7>",
+      "time" : {
+        "start" : 1579454144830,
+        "stop" : 1579454189716,
+        "duration" : 44886
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "834badaf50ecf524.json",
+  "parameterValues" : [ ]
+}

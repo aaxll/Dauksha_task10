@@ -1,0 +1,119 @@
+{
+  "uid" : "69260808c40c89b5",
+  "name" : "addNewCouponTest()",
+  "fullName" : "CouponCreateTest.addNewCouponTest",
+  "historyId" : "dd057b96c4875032e9dc536ce13d6924",
+  "time" : {
+    "start" : 1579464519566,
+    "stop" : 1579464546195,
+    "duration" : 26629
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1579464519567,
+      "stop" : 1579464528656,
+      "duration" : 9089
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1579464545642,
+      "stop" : 1579464546194,
+      "duration" : 552
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "16324@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CouponCreateTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CouponCreateTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addNewCouponTest"
+  }, {
+    "name" : "suite",
+    "value" : "CouponCreateTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3d7220666243b844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579463899547,
+        "stop" : 1579463919859,
+        "duration" : 20312
+      }
+    }, {
+      "uid" : "323563557d4ec5d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579461294035,
+        "stop" : 1579461314179,
+        "duration" : 20144
+      }
+    }, {
+      "uid" : "4d3b29e8f45b1e36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579460911400,
+        "stop" : 1579460933253,
+        "duration" : 21853
+      }
+    }, {
+      "uid" : "15d524da29b02020",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579454064118,
+        "stop" : 1579454090837,
+        "duration" : 26719
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69260808c40c89b5.json",
+  "parameterValues" : [ ]
+}

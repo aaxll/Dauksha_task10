@@ -1,0 +1,85 @@
+{
+  "uid" : "1ca43bc5f54af6d0",
+  "name" : "userLogOutTest()",
+  "fullName" : "LogOutTest.userLogOutTest",
+  "historyId" : "a3a467c82987da9d0b3aa1ae11d6071a",
+  "time" : {
+    "start" : 1579454345659,
+    "stop" : 1579454376208,
+    "duration" : 30549
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1579454345660,
+      "stop" : 1579454354736,
+      "duration" : 9076
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1579454375653,
+      "stop" : 1579454376208,
+      "duration" : 555
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "2772@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "LogOutTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LogOutTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "userLogOutTest"
+  }, {
+    "name" : "suite",
+    "value" : "LogOutTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ca43bc5f54af6d0.json",
+  "parameterValues" : [ ]
+}

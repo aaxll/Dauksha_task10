@@ -1,0 +1,81 @@
+[ {
+  "uid" : "d67f67e78432994d",
+  "name" : "userLogOutTest()",
+  "time" : {
+    "start" : 1579464764138,
+    "stop" : 1579464791721,
+    "duration" : 27583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b72b7750b73068b6",
+  "name" : "Login User",
+  "time" : {
+    "start" : 1579464493427,
+    "stop" : 1579464519472,
+    "duration" : 26045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eebf724470cea071",
+  "name" : "couponSearchResultRowVisibilityTest()",
+  "time" : {
+    "start" : 1579464738014,
+    "stop" : 1579464764132,
+    "duration" : 26118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "834badaf50ecf524",
+  "name" : "searchAndDeleteCouponTest()",
+  "time" : {
+    "start" : 1579464578981,
+    "stop" : 1579464645231,
+    "duration" : 66250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4a2da5c7e3ea463",
+  "name" : "searchCouponPlaceholderTest()",
+  "time" : {
+    "start" : 1579464696436,
+    "stop" : 1579464738009,
+    "duration" : 41573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "397d180b2a837955",
+  "name" : "addNewCouponSuccessMsgTest()",
+  "time" : {
+    "start" : 1579464546200,
+    "stop" : 1579464578974,
+    "duration" : 32774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90fd82e6d90c26cb",
+  "name" : "searchCouponResultTest()",
+  "time" : {
+    "start" : 1579464645235,
+    "stop" : 1579464696433,
+    "duration" : 51198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69260808c40c89b5",
+  "name" : "addNewCouponTest()",
+  "time" : {
+    "start" : 1579464519566,
+    "stop" : 1579464546195,
+    "duration" : 26629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

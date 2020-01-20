@@ -1,0 +1,85 @@
+{
+  "uid" : "a97d4c97d0bb564a",
+  "name" : "searchCouponResultTest()",
+  "fullName" : "CouponOperationsTest.searchCouponResultTest",
+  "historyId" : "fd99a49458634d837a5e7cae96165f63",
+  "time" : {
+    "start" : 1579454189728,
+    "stop" : 1579454242393,
+    "duration" : 52665
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1579454189729,
+      "stop" : 1579454199056,
+      "duration" : 9327
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1579454241838,
+      "stop" : 1579454242393,
+      "duration" : 555
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "2772@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchCouponResultTest"
+  }, {
+    "name" : "suite",
+    "value" : "CouponOperationsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a97d4c97d0bb564a.json",
+  "parameterValues" : [ ]
+}
